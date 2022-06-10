@@ -1,0 +1,13 @@
+.head-tag{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 40%;
+}
+.card-detail{
+   color: salmon;
+   font-weight: bold;
+}
+.card-bg{
+    background-color: grey;
+}
+
